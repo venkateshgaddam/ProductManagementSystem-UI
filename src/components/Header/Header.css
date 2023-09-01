@@ -1,0 +1,13 @@
+.headerClass {
+    text-align: initial;
+    display: flex;
+}
+.invesco-logo {
+    height: 80px;
+    width: 150px
+}
+.header-text {
+    color: white;
+    margin-left: 50px;
+    font-weight: 700;
+}

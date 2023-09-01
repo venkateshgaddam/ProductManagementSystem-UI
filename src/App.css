@@ -1,10 +1,15 @@
 .App {
   text-align: center;
 }
-
+.ant-select-selector {
+  text-align: initial !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.ant-layout-content {
+  background-color: white
 }
 
 @media (prefers-reduced-motion: no-preference) {

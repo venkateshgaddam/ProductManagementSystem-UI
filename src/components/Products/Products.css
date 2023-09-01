@@ -1,0 +1,30 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.ant-upload-list {
+    display: flex;
+    justify-content: center;
+}
+.upload-list-inline .ant-upload-list-item {
+    float: left;                                              
+    width: 200px;
+    margin-inline-end: 8px;
+  }
+  
+  .ant-upload-rtl.upload-list-inline .ant-upload-list-item {
+    float: right;
+  }
+  .ant-form-item-control-input {
+    width: 200px
+  }
+  .red-row {
+    background-color: rgb(237, 111, 111);
+  }
+  .orange-row {
+    background-color: rgb(242, 194, 105);
+  }
+  .green-row {
+    background-color: rgb(98, 223, 98);
+  }
